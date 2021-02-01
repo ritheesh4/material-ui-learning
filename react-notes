@@ -1,0 +1,5 @@
+- Short form of React.Fragment. This is used to avoid the parent element missing error.
+<>
+</>
+
+- box-sizig: border-bx  inorder to avoid overflow(You will need this)
